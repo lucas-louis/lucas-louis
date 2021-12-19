@@ -5,7 +5,12 @@
 </h1>
 
 <p align='center'>
-    Currently a  <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="15">  student at Epitech and Resident at <a href=https://github.com/PoCInnovation>PoC Innovation</a>
+  <img src="https://img.shields.io/badge/-0055A4?style=for-the-badge" width="50" height='5px' />
+  <img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge" width="50" height='5px' />
+  <img src="https://img.shields.io/badge/-EF4135?style=for-the-badge" width="50" height='5px' />
+</p>
+<p align='center'>
+    Currently a student at Epitech and Resident at <a href=https://github.com/PoCInnovation>PoC Innovation</a>
 </p>
 
 <p align="center">
