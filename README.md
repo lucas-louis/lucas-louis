@@ -48,7 +48,7 @@
       <img src="https://img.shields.io/badge/GitHub-504E4E?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="mailto:lucas.louis@epitech.eu">
-      <img src="https://img.shields.io/badge/lucas.louis@epitech.eu-AC2F20?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/lucas.louis@epitech.eu-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
     </a>
   </p>
 </div>
