@@ -19,7 +19,7 @@
 
 
 <div>
-  <img src="./images/workspace_banner.png" /><br/><br/>
+  <img src="./images/workspace_banner.svg" /><br/><br/>
   <p align='center'>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/Windows-4FC7FF?style=for-the-badge&logo=windows&logoColor=white" />
@@ -40,7 +40,7 @@
 <br/>
 <div>
   <p align='center'>
-    <img src="./images/links_banner.png" /><br/><br/>
+    <img src="./images/links_banner.svg" /><br/><br/>
     <a href="https://www.linkedin.com/in/lucas-louis/">
       <img src="https://img.shields.io/badge/LinkedIn-0373AF?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -56,7 +56,7 @@
 <br/>
 <br/>
 <div>
-  <img src="./images/languages_banner.png" /><br/><br/>
+  <img src="./images/languages_banner.svg" /><br/><br/>
 
   <p align='center'>
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -76,7 +76,7 @@
 <br/>
 <br/>
 <div>
-  <img src="./images/database_banner.png" /><br/><br/>
+  <img src="./images/database_banner.svg" /><br/><br/>
   <p align='center'>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img alt="PostgresSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -86,7 +86,7 @@
 <br/>
 <br/>
 <div>
-  <img src="./images/technologies_frameworks_banner.png" /><br/><br/>
+  <img src="./images/technologies_frameworks_banner.svg" /><br/><br/>
   <p align='center'>
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
@@ -116,7 +116,7 @@
 <br/>
 <br/>
 <div>
-  <img src="./images/office_banner.png" /><br/><br/>
+  <img src="./images/office_banner.svg" /><br/><br/>
   <p align='center'>
     <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
     <img alt="Airtable" src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" />
