@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/ZNi18lLfqs4AAAAC/rainbow-line-line.gif" width="967" height="3"/>
+<img src="https://c.tenor.com/ZNi18lLfqs4AAAAC/rainbow-line-line.gif" width="100%" height="3"/>
 
 <h1 align='center'>
   Hi, I'm Lucas 👨‍💻
@@ -127,4 +127,4 @@
   </p>
 </div>
 
-<img src="https://c.tenor.com/ZNi18lLfqs4AAAAC/rainbow-line-line.gif" width="967" height="3"/>
+<img src="https://c.tenor.com/ZNi18lLfqs4AAAAC/rainbow-line-line.gif" width="100%" height="3"/>
